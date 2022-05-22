@@ -1,6 +1,6 @@
-Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
-buy_basic,true,managed_by_android,false,en-US;Buy Basic;Buy basic plan,true,USD,220
-buy_silver,true,managed_by_android,false,en-US;Buy Silver;Buy silver plan,true,USD,280
-buy_gold,true,managed_by_android,false,en-US;Buy Gold;Buy gold plan,true,USD,380
-buy_product,true,managed_by_android,false,en-US;Buy Product;Buy product plan,true,USD,392
-buy_platinum,true,managed_by_android,false,en-US;Buy Platinum;Buy platinum plan,true,USD,400
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price
+buy_basic,published,managed_by_android,false,en-US;Buy Basic;Buy basic plan,true,22000
+buy_silver,published,managed_by_android,false,en-US;Buy Silver;Buy silver plan,true,28000
+buy_gold,published,managed_by_android,false,en-US;Buy Gold;Buy gold plan,true,38000
+buy_product,published,managed_by_android,false,en-US;Buy Product;Buy product plan,true,39200
+buy_platinum,published,managed_by_android,false,en-US;Buy Platinum;Buy platinum plan,true,40000
