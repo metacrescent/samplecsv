@@ -1,0 +1,9 @@
+buy_basic,published,managed_by_android,false,en-US;Buy Basic;Buy basic plan,true,22000
+
+buy_silver,published,managed_by_android,false,en-US;Buy Silver;Buy silver plan,true,28000
+
+buy_gold,published,managed_by_android,false,en-US;Buy Gold;Buy gold plan,true,38000
+
+buy_product,published,managed_by_android,false,en-US;Buy Product;Buy product plan,true,39200
+
+buy_platinum,published,managed_by_android,false,en-US;Buy Platinum;Buy platinum plan,true,40000
